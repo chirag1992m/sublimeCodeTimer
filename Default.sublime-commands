@@ -1,0 +1,10 @@
+[
+	{
+		"caption" : "Code Timer : Start",
+		"command" : "code_timer_start"
+	},
+	{
+		"caption" : "Code Timer : Stop",
+		"command" : "code_timer_stop"
+	}
+]
