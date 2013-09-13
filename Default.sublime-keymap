@@ -1,10 +1,14 @@
 [
 	{
-		"keys": ["ctrl+alt+c"],
+		"keys": ["ctrl+shift+x"],
 		"command": "code_timer_start"
 	},
 	{
-		"keys": ["ctrl+alt+x"],
+		"keys": ["ctrl+shift+q"],
 		"command": "code_timer_stop"
+	},
+	{
+		"keys": ["ctrl+shift+c"],
+		"command": "code_countdown_start"
 	}
 ]

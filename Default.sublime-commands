@@ -6,5 +6,9 @@
 	{
 		"caption" : "Code Timer : Stop",
 		"command" : "code_timer_stop"
+	},
+	{
+		"caption" : "Code Timer: Countdown",
+		"command": "code_countdown_start"
 	}
 ]
