@@ -3,7 +3,7 @@ import sublime
 from sublime_plugin import ApplicationCommand, TextCommand
 
 class CodeCountdownStartCommand(TextCommand):
-	TimeValues = ["10 minutes", "15 minutes", "30 minues", "45 minutes", "1 hour"]
+	TimeValues = ["10 minutes", "15 minutes", "30 minutes", "45 minutes", "1 hour"]
 	TimeValuesInSeconds = {
 		0: 600,
 		1: 900,
